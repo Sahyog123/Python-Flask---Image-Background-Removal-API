@@ -23,8 +23,6 @@ POST /removebg
 - 400 Bad Request: Error if image_path is not provided in the request.
 - 404 Not Found: Error if the specified image file is not found.
 
-## Screenshots
-
 ## Technologies Used
 - Python
 - Flask
